@@ -6,8 +6,6 @@
 
 
 call plug#begin()
-  " theme
-  Plug 'bluz71/vim-moonfly-colors', { 'as': 'moonfly' }
 
   Plug 'vim-airline/vim-airline'
   Plug 'vim-airline/vim-airline-themes'
