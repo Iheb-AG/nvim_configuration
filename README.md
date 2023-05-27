@@ -8,7 +8,7 @@ This is my personal Neovim configuration
 
 
 
-## What i can after setting this configuration ? 
+## What's this configuration for ? 
 
 - Python development 
 - ...
