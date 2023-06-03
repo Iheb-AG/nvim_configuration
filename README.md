@@ -10,7 +10,8 @@ This is my personal Neovim configuration
 
 ## What's this configuration for ? 
 
-- Python development 
+- Python Development 
+- Java Development
 - ...
 
 
