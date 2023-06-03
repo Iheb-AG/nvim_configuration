@@ -15,6 +15,12 @@ This is my personal Neovim configuration
 - ...
 
 
+## Python Development 
+
+## Java Development
+
+
+
 ## how to use this configuration ?
 ## Pre-requisits : 
 1 - nvim should be installed 
